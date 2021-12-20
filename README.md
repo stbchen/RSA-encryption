@@ -1,4 +1,4 @@
-# Assignment 6 = "Public Key Cryptography"
+# Assignment 6: "Public Key Cryptography"
 This program will perform RSA public key cryptography. This program can generate public and private keys, encrypt and decrypt using the public and private keys. RSA encryption uses various math concepts like large primes numbers and modulus.
 
 ## Building
