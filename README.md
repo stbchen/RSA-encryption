@@ -76,6 +76,3 @@ Command line options for keygen:
    -d pvfile       Private key file (default: rsa.priv).
    -s seed         Random seed for testing.
 
-## Other
-
-
